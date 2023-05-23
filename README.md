@@ -3,7 +3,7 @@
   <!--<h2>I'm currently learning web development</h2>-->
   <div>
     <h2>About me</h2>
-    <p>I'm a civil engineer who loves construction, guitar, and techology. Nowadays I'm developing web projects.</p>
+    <p>I'm a civil engineer who loves construction, guitar, techology and cars. Nowadays I'm developing web projects.</p>
   </div>
   
   <div>

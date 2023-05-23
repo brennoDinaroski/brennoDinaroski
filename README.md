@@ -16,8 +16,8 @@
  <div>
   <h2>Contact me!</h2>  
     <div>
-      <a href=""><img align="center" height="40" src="https://logospng.org/download/gmail/logo-gmail-512.png" alt="gmail logo"> brenno.dinaroski@gmail.com</a><br>
-      <a href=""><img align="center" height="40" src="https://logospng.org/download/linkedin/logo-linkedin-icon-512.png" alt="linkedIn logo"> https://www.linkedin.com/in/brenno-dinaroski/</a>
+      <a href="brenno.dinaroski@gmail.com"><img align="center" height="40" src="https://logospng.org/download/gmail/logo-gmail-512.png" alt="gmail logo"></a><br>
+      <a href="https://www.linkedin.com/in/brenno-dinaroski/"><img align="center" height="40" src="https://logospng.org/download/linkedin/logo-linkedin-icon-512.png" alt="linkedIn logo"></a>
     </div>
 </div>
   

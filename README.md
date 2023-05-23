@@ -13,6 +13,13 @@
     <img alt="Java-Script" align="center" height="50"  class=images src="https://logospng.org/download/javascript/logo-javascript-icon-512.png">
   </div>
  </div>
+ <div>
+  <h2>Contact me!</h2>  
+    <div>
+      <a href=""><img align="center" height="40" src="https://logospng.org/download/gmail/logo-gmail-512.png" alt="gmail logo"> brenno.dinaroski@gmail.com</a><br>
+      <a href=""><img align="center" height="40" src="https://logospng.org/download/linkedin/logo-linkedin-icon-512.png" alt="linkedIn logo"> https://www.linkedin.com/in/brenno-dinaroski/</a>
+    </div>
+</div>
   
  
   

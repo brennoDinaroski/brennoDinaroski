@@ -8,10 +8,15 @@
   
   <div>
     <h3>Technologies</h3>
-    <img alt="HTML-5" align="center" height="50"  class=images src="https://logospng.org/download/html-5/logo-html-5-512.png">
-    <img alt="CSS3" align="center" height="50"  class=images src="https://logospng.org/download/css-3/logo-css-3-2048.png">
-    <img alt="Java-Script" align="center" height="50"  class=images src="https://logospng.org/download/javascript/logo-javascript-icon-512.png">
-    <img alt="React" align="center" height="50" class=images src="https://logospng.org/download/react/logo-react-512.png">
+    <ul>
+      <li>
+        <h3>HTML 5</h3>
+        <img alt="HTML-5" align="center" height="50"  class=images src="https://logospng.org/download/html-5/logo-html-5-512.png">
+      </li>
+      <img alt="CSS3" align="center" height="50"  class=images src="https://logospng.org/download/css-3/logo-css-3-2048.png">
+      <img alt="Java-Script" align="center" height="50"  class=images src="https://logospng.org/download/javascript/logo-javascript-icon-512.png">
+      <img alt="React" align="center" height="50" class=images src="https://logospng.org/download/react/logo-react-512.png">
+    </ul>
   </div>
  </div>
  <div>
